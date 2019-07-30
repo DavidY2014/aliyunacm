@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunAcmDemo", "AliyunAcmDemo\AliyunAcmDemo.csproj", "{F372C78D-4D77-4635-8AEC-009C50CFD278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colipu.AliyunAcm.Utils", "Colipu.AliyunAcm.Utils\Colipu.AliyunAcm.Utils.csproj", "{7AB2D4C7-234F-4929-A42D-A1CBC619AE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F372C78D-4D77-4635-8AEC-009C50CFD278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F372C78D-4D77-4635-8AEC-009C50CFD278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F372C78D-4D77-4635-8AEC-009C50CFD278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F372C78D-4D77-4635-8AEC-009C50CFD278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB2D4C7-234F-4929-A42D-A1CBC619AE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB2D4C7-234F-4929-A42D-A1CBC619AE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB2D4C7-234F-4929-A42D-A1CBC619AE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB2D4C7-234F-4929-A42D-A1CBC619AE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E543B7A-3A52-4D0A-A98B-8D62F00EB756}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+{
+  "Tenant": "2fd710f9-1484-4c95-8e0f-6e19bfac5953",
+  "SecretKey": "QCVWULEz17VkSq4+0pM1i2d0d6k=",
+  "AccessKey": "91b5724f526d4de7a3371159a1ce413a",
+  "AliyunItems": [
+    {
+      "DataId": "coliputest",
+      "Group": "DEFAULT_GROUP",
+      "AppConfigurePath": "E:\\coliputestDEFAULT_GROUP.json"
+    },
+    {
+      "DataId": "web.c.default_banners",
+      "Group": "DEFAULT_GROUP",
+      "AppConfigurePath": "E:\\web.c.default_bannersDEFAULT_GROUP.json"
+    },
+    {
+      "DataId": "test2",
+      "Group": "DEFAULT_GROUP",
+      "AppConfigurePath": "E:\\test2DEFAULT_GROUP.json"
+    },
+    {
+      "DataId": "",
+      "Group": "",
+      "AppConfigurePath": ""
+    }
+  ]
+}
